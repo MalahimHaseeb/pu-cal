@@ -4,6 +4,8 @@ A simple Streamlit app to calculate your semester GPA and CGPA using the officia
 
 Built this because I got tired of doing the math by hand every semester. You punch in your courses, credit hours and marks, and it does the rest, including combining it with your CGPA from previous semesters.
 
+**Live demo:** [pu-cal.streamlit.app](https://pu-cal.streamlit.app/)
+
 ## Features
 
 - Add courses with credit hours and marks percentage, get the letter grade and GPA instantly
